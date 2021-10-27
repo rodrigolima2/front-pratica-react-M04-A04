@@ -1,0 +1,14 @@
+.Cadastro{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+
+    min-height: 100vh;
+
+    background-image: url('../../assets/imagem-cadastro.png');
+    background-repeat: no-repeat;
+    background-position: right;
+
+    margin-left: 119px;
+}

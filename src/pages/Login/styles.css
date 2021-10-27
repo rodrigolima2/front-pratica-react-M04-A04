@@ -1,0 +1,14 @@
+.Login{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+
+    min-height: 100vh;
+    
+    background-image: url('../../assets/imagem-login.png');
+    background-repeat: no-repeat;
+    background-position: left;
+
+    margin-right: 122px;
+}
